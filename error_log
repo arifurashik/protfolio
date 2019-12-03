@@ -1,0 +1,4 @@
+[29-Aug-2019 00:47:24 America/New_York] PHP Warning:  require(/home/arifogtp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/arifogtp/public_html/index.php on line 24
+[29-Aug-2019 00:47:24 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/arifogtp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/arifogtp/public_html/index.php on line 24
+[29-Aug-2019 00:47:29 America/New_York] PHP Warning:  require(/home/arifogtp/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/arifogtp/public_html/index.php on line 24
+[29-Aug-2019 00:47:29 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/arifogtp/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/arifogtp/public_html/index.php on line 24
